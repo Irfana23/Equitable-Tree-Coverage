@@ -1,8 +1,7 @@
 # Equitable-Tree-Coverage
 
-The project aimed to assess and predict the tree canopy coverage across various neighborhoods in Austin, Texas, with a focus on achieving equity in urban green spaces. It involved the analysis of geospatial data encompassing census tract information and tree canopy coverage. 
+The project aimed to assess and predict the tree canopy coverage across various neighborhoods in Austin, Texas, with a focus on achieving equity in urban green spaces. It involved the analysis of geospatial data encompassing census tract information and tree canopy coverage. The key steps and findings are outlined below:
 
-## Steps taken to complete the project 
 ## Data Collection and preparation:
 Utilized GeoPandas and Python libraries to process geospatial data, integrating census tract demographics and tree canopy datasets for analysis.
 Features considered included race/ethnicity percentages, median household income, and impervious surface area.
